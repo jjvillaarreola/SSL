@@ -75,7 +75,7 @@
 <h3>AGREGA LO QUE QUIERAS</h3>
 ```
 
-`sudo a2ensite IP MAQUINA.conf`
+`sudo a2ensite IP_MAQUINA.conf`
 
 
 `sudo apache2ctl configtest`
